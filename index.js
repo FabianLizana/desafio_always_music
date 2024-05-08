@@ -114,8 +114,6 @@ async function consultaRuttoDatabase(pool, rut) {
   }
 }
 
-
-
 // Pregunta 3: Crear una función asíncrona para obtener por consola todos los estudiantes registrados. (2 puntos)
 // He creado la siguiente función para obtener todos los estudiantes registrados:
 function consultarTodosLosEstudiantes(connection_pool) {
@@ -138,7 +136,6 @@ async function consultaGlobaltoDatabase(pool) {
     console.log(error);
   }
 }
-
 
 // Pregunta 4: Crear una función asíncrona para actualizar los datos de un estudiante en la base dedatos. (2 puntos)
 // He creado la siguiente función editarEstudiante que permite editar un estudiante en la base de datos:

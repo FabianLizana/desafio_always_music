@@ -1,0 +1,2 @@
+Hice dos index con formas distinas de hacerlo pero los dos funcionan perfectamente y cumplen con los requerimientos del desafio,
+ uno con funciones de flechas y el otro sin ellas. (-- indexprueba.js tiene las funciones de flecha--)
